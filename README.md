@@ -196,14 +196,11 @@ The solid arrows trace the primary generate → reward → optimize loop; the da
 ## Repository Structure
 
 ```
-project/
+llm-reasoning-grpo/
 ├── README.md                                        # Project-level overview
-├── requirements.txt                                  # Pinned Python dependencies
-├── starter/
-│   ├── README.md                                     # Starter-folder instructions
-│   └── gen_ai_fundamentals_project_starter.ipynb      # Main notebook (complete this project here)
-└── solution/
-    └── gen_ai_fundamentals_project_solution.ipynb     # Reference solution notebook
+├── mermaid_diagram.png                              # Project architecture
+├── gen_ai_fundamentals_project.ipynb/html           # Main notebook/html
+└── GRPO_LLM_REASONING_PROJECT_REPORT.pdf.           # Project Report
 ```
 
 The completed notebook, with all TODOs filled in, reward functions implemented and unit-validated, and hyperparameters set and justified, is the primary deliverable of this project.
